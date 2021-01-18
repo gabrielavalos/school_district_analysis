@@ -28,7 +28,7 @@
     * Math Average. Thomas High School 9th grade average is not available.  (Initial: Top, Updated: Bottom)
       ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Initial%20DataFrames/Average_Math_by_School_Initial.PNG)<br>
       ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Updated%20DataFrames/Average_Math_by_School_Updated.PNG)
-    * Reading Averages. Thomas High School 9th grade average is not available. (Initial: Top, Updated: Bottom)
+    * Reading Averages. Thomas High School 9th grade average is not available. (Initial: Left, Updated: Right)
      ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Initial%20DataFrames/Average_Reading_by_School_Initial.PNG)
      ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Updated%20DataFrames/Average_Reading_by_School_Updated.PNG)
 
