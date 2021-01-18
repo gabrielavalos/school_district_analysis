@@ -59,6 +59,8 @@ Our findings will help determine the impact of spending per student, school size
 ## Summary
 Major Change 1: Student Total in District DataFrame change due to de exclusion of the 9th grade math and reading scorse from Thomas High School.
 <br>
+<br>
 Major Change 2: Thomas High School Math, Reading, and Overall percentages decreased significantly due to the high 9th grade math and reading scores that were excluded.
+<br>
 <br>
 Major Change 3: Math and Reading Averages are completely unavailable for Thomas High School 9th grade; therefore there performance cannot be analyzed at all.
