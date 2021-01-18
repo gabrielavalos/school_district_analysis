@@ -9,7 +9,13 @@ There is a bulleted list that addresses how each of the seven school district me
  * Overall, the ditrict was not affect by the exclusion of the 9th grade math and reading scores. (Initial: Top, Updated: Bottom)
 ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Initial%20DataFrames/District_Summary_Initial.PNG)
 ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Updated%20DataFrames/District_Summary_Updated.PNG)
-              * Nested bullet
+
+ * Thomas High School was significantly affected by the excluded 9th grade math and reading scores (Initial: Top, Updated: Bottom)
+![]()
+![]()
+             
+             
+             * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
 
