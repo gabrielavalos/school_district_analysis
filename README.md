@@ -13,8 +13,9 @@ There is a bulleted list that addresses how each of the seven school district me
  * Thomas High School was significantly affected by the excluded 9th grade math and reading scores (Initial: Top, Updated: Bottom)
 ![]()
 ![]()
-             
-             
+             Thomas High School scores were significantly effected by the exclusion of their 9th grade scores
+           Charter Schools perform significantly better than District Schools
+           The schools with smaller budgets per students outperformed the school with higher budgest per students
              * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
