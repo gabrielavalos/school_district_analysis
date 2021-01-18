@@ -24,7 +24,7 @@ Our findings will help determine the impact of spending per student, school size
  * The Per School Averages and Percentages for all the schools, except Thomas High School, were not effect. See bullet point below for a close up. (Initial: Top, Updated: Bottom)
 ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Initial%20DataFrames/per_school_summary_initial.PNG)
 ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Updated%20DataFrames/per_school_summary.PNG)
-    * Thomas High School percentages (math, reading & overall) decreased significantly by the exclusion of the Thomas High School 9th grade math and reading scores. (Initial: Top, Updated: Bottom)
+    * Thomas High School percentages (math, reading & overall) decreased significantly by the exclusion of the Thomas High School 9th grade math and reading scores. This highlighs how the scores of a single grade can have a major impact on overall metrics. (Initial: Top, Updated: Bottom)
     ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Initial%20DataFrames/Thomas_High_School_Initial.PNG)
     ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Updated%20DataFrames/Thomas_High_School_Updated.PNG)
     
@@ -57,6 +57,8 @@ Our findings will help determine the impact of spending per student, school size
   ![](https://github.com/gabrielavalos/school_district_analysis/blob/main/Resources/Images%20for%20README/Updated%20DataFrames/Scores_by_School_Type_Update.PNG)
 
 ## Summary
-Major Change 1: Student Total in District DataFrame.
-Major Change 2: Thomas High School Math, Reading, and Overall percentages decreased significantly.
-Major Change 3: Math and Reading Averages are completely unavailable for Thomas High School 9th grade.
+Major Change 1: Student Total in District DataFrame change due to de exclusion of the 9th grade math and reading scorse from Thomas High School.
+<br>
+Major Change 2: Thomas High School Math, Reading, and Overall percentages decreased significantly due to the high 9th grade math and reading scores that were excluded.
+<br>
+Major Change 3: Math and Reading Averages are completely unavailable for Thomas High School 9th grade; therefore there performance cannot be analyzed at all.
